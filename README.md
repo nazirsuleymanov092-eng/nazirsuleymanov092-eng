@@ -1,24 +1,18 @@
-# 👋 Salam, mən Nazirəm!
+# 👋 Salam
 
-**Full-stack web developer** — ASP.NET Core (C#) + React/Redux ilə real layihələr qururam. UI/UX, Razor Views və CSS inteqrasiyasına xüsusi diqqət yetirirəm.
+**web developer**.  
+Hazırda **C#, ASP.NET Core və SQL** öyrənirəm, eyni zamanda **HTML, CSS, JavaScript və React** biliklərim var layihələr qururam.
 
-## 🚀 Fokus sahələrim
-- Backend: ASP.NET Core, C#, REST API
-- Frontend: React, Redux, Razor Views
-- Database: SQL Server, EF Core (Migrations, LINQ)
-- UI/UX: CSS, Bootstrap, komponent əsaslı dizayn
+## 🚀 Bacarıqlarım
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** C# (öyrənirəm), ASP.NET Core (öyrənirəm)
+- **Database:** SQL Server (öyrənirəm)
+- **UI/UX:** CSS inteqrasiyası, Razor Views, praktiki workflow optimizasiyası
+- 
+## 🎯 Məqsədim
+Full-stack developer kimi həm **frontend** həm də **backend** bacarıqlarımı inkişaf etdirmək.  
+Real-world problemləri həll edən layihələr qurmaq və açıq mənbə icmasına töhfə vermək.
 
-## 🧩 Seçilmiş layihələr
-- **Student Management System:** Razor Views + CSS ilə UI polishing, şəkil inteqrasiyası, düzgün model dizaynı
-- **Workflow Optimizations:** Praktik UI feedback, təşkilatlanmış kod strukturu
-- **React UI Demos:** Real data ilə interaktiv komponentlər, Redux state idarəsi
-
-## 📈 İş üslubum
-- **Addım-addım yanaşma:** Dəyişiklikləri izah edir, dayanıqlı strukturu qoruyuram
-- **Maintainability:** Modul kod, aydın service registration, düzgün property tipləri
-- **Real problemlər:** Həll yönümlü, praktiki nümunələr
-
-## 🔗 Əlaqələr
-- LinkedIn: https://linkedin.com/in/your-link
-- Portfolio: https://your-portfolio.com
-- Email: your@email.com
+## 🔗 Əlaqə
+- LinkedIn: [www.linkedin.com/in/nazir-suleymanov-84747a323](#)
+- Email: nazirsuleymanov092@gmail.com
