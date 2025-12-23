@@ -14,5 +14,6 @@ Full-stack developer kimi həm **frontend** həm də **backend** bacarıqlarım�
 Real-world problemləri həll edən layihələr qurmaq və açıq mənbə icmasına töhfə vermək.
 
 ## 🔗 Əlaqə
-- LinkedIn: [www.linkedin.com/in/nazir-suleymanov-84747a323](#)
-- Email: nazirsuleymanov092@gmail.com
+- LinkedIn: [Nazir Süleymanov](https://www.linkedin.com/in/nazir-suleymanov-84747a323)
+- Email: [nazirsuleymanov092@gmail.com](mailto:nazirsuleymanov092@gmail.com)
+
